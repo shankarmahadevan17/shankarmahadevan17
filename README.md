@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2 align="center">Hello there! My name is Shankar Mahadevan 👋🤓</h2>
 
-<!--
-**shankarmahadevan17/shankarmahadevan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## 📈 My GitHub Stats  
+![Shankar Mahadevan's Github Stats](https://github-readme-stats.vercel.app/api?username=shankarmahadevan17&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarmahadevan17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- I-WRITE-FOR:END -->
+
+
+## 📫 You can find me @
+<!-- YOU-CAN-FIND-ME:START -->
+
+- [Instagram](https://www.instagram.com/awe_shank/) 😎
+
+<!-- YOU-CAN-FIND-ME:END -->
+
+**Page Views**
+(Counting since 10th October 2021):
+
+![Visitor Count](https://profile-counter.glitch.me/shankarmahadevan17/count.svg)
+
