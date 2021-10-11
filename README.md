@@ -1,8 +1,5 @@
 <h2 align="center">Hello there! My name is Shankar Mahadevan 👋🤓</h2>
 
-<p align=center>
-<img src="smd.jpeg" alt="profile" />
-</p>
 
 
 
