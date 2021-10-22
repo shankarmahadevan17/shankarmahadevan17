@@ -18,7 +18,7 @@
 ## 📫 You can find me @
 <!-- YOU-CAN-FIND-ME:START -->
 
-- [G-Mail](124009122@sastra.ac.in) 😎
+- [G-Mail](https://mail.google.com/mail/mu/mp/374/#tl/priority/%5Esmartlabel_personal) 😎
 
 <!-- YOU-CAN-FIND-ME:END -->
 
