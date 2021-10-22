@@ -18,7 +18,7 @@
 ## 📫 You can find me @
 <!-- YOU-CAN-FIND-ME:START -->
 
-- [Instagram](https://www.instagram.com/awe_shank/) 😎
+- [G-Mail](124009122@sastra.ac.in) 😎
 
 <!-- YOU-CAN-FIND-ME:END -->
 
