@@ -1,20 +1,8 @@
 <h2 align="center">Hello there! My name is Shankar Mahadevan 👋🤓</h2>
 
-
-
-
-
-
-
-
-## 📈 My GitHub Stats  
-![Shankar Mahadevan's Github Stats](https://github-readme-stats.vercel.app/api?username=shankarmahadevan17&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarmahadevan17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!-- I-WRITE-FOR:END -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shankarmahadevan17&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 
 ## 📫 You can find me @
@@ -24,9 +12,3 @@
 - [Reddit](https://www.reddit.com/user/shankarmahadevan17)
 
 <!-- YOU-CAN-FIND-ME:END -->
-
-**Page Views**
-(Counting since 10th October 2021):
-
-![Visitor Count](https://profile-counter.glitch.me/shankarmahadevan17/count.svg)
-
