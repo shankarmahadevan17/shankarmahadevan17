@@ -4,8 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://fb.com/shankar mahadevan narasimhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shankar mahadevan narasimhan" height="30" width="40" /></a>
- <a href="https://kaggle.com/shankar mahadevan 17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shankar mahadevan 17" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100081156974659" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shankar mahadevan narasimhan" height="30" width="40" /></a>
+ <a href="https://kaggle.com/shankarmahadevan17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shankar mahadevan 17" height="30" width="40" /></a>
 <a href="https://instagram.com/shankarmahadevanl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shankarmahadevanl" height="30" width="40" /></a>
 </p>
 
